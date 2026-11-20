@@ -9,7 +9,7 @@ This project predicts vehicle prices using Machine Learning regression technique
 ## 📁 Dataset
 
 - Dataset: Automobile Dataset
-- File: automobile.csv
+- File: auto.csv
 
 ## ⚙️ Technologies Used
 
